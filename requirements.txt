@@ -1,0 +1,13 @@
+pandas
+numpy
+matplotlib
+jupyterlab
+ipykernel
+rank-bm25
+
+# future stages
+# sentence-transformers
+# torch
+# hnswlib
+# scikit-learn
+# faiss-cpu
